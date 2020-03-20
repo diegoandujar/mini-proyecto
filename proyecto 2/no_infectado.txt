@@ -1,0 +1,5 @@
+Pablo martinez,64,No infectado,0412544873
+Aqules voy,25,No infectado,04256998523
+Gabo ruiz,28,No infectado,04148749565
+Kanye west,42,No infectado,04248745978
+Donald trump,73,No infectado,04145442658

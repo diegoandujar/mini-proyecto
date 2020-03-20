@@ -1,0 +1,4 @@
+Andres perez,87,Infectado,04268957784,gaseoso,lima,caracas,Don Ramon
+Aquiles vengo,74,Infectado,04158994762,solido,milan,ontario,Aquiles Pero
+Diego forlan,40,Infectado,3515854136,uruguay,montevideo,nose,Pedro Perez
+Mr agua,0,Infectado,04129009917,liquido,fondo,debikini,jose gregorio
